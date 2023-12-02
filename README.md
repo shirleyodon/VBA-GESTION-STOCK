@@ -2,7 +2,7 @@
 Projet professionnel de gestion de stock en Visual Basic for Applications
 
 ## Présentation
-Ce projet exploite les fonctionnalités avancées du logiciel Microsoft Excel pour automatiser la gestion des stocks d'un magasin. L'application, entièrement codée en VBA, offre une interface conviviale, dynamique et intuitive.
+Ce projet exploite les fonctionnalités avancées du logiciel Microsoft Excel pour automatiser la gestion des stocks d'un épibar (épicerie avec un bar intégré). L'application, entièrement codée en VBA, offre une interface conviviale, dynamique et intuitive.
 
 ## Fonctionnalités
 L'application propose les fonctionnalités suivantes :
